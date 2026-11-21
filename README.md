@@ -36,39 +36,39 @@ Monday, November 16
 
 Tuesday, November 17
 
-* 09:00 AM – 09:50 AM o Lecture IV: Matched Filtering: Finding Signals in Noise; L Bouma
+* 09:00 AM – 09:50 AM o Lecture IV: [Matched Filtering: Finding Signals in Noise](Day2/lecture_IV_matched_filtering_keyhtml_native_standalone.html); L Bouma
 * 09:50 AM – 10:00 AM o BREAK
-* 10:00 AM – 10:50 AM o Problem IVa: Matched Filters with Known Templates: Chirps, Transits, and Microlensing Events; L Bouma
+* 10:00 AM – 10:50 AM o Problem IVa: [Matched Filters with Known Templates: Chirps, Transits, and Microlensing Events](Day2/MatchedFiltering.ipynb) | [Solutions](Day2/MatchedFilteringSolutions.ipynb); L Bouma
 * 10:50 AM – 11:00 AM o BREAK
-* 11:00 AM – 11:50 AM o Problem IVb: Unknown Templates and Needles in Haystacks; L Bouma
+* 11:00 AM – 11:50 AM o Problem IVb: [Unknown Templates and Needles in Haystacks](Day2/MatchedFiltering.ipynb) | [Solutions](Day2/MatchedFilteringSolutions.ipynb); L Bouma
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:15 PM o Lecture V: Fourier Methods II: Spectral Estimation, Windowing, and Filtering; J Johnson
 * 02:15 PM – 03:30 PM o Problem V: Spectral Estimation and Filtering; J Johnson
 * 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM – 04:45 PM o Lecture VI: Introduction to Gaussian Processes; S Sagynbayeva
-* 04:45 PM – 06:00 PM o Problem VI: Gaussian Process Regression; S Sagynbayeva
+* 04:00 PM – 04:45 PM o Lecture VI: [Introduction to Gaussian Processes](Day2/GP_lecture1.ipynb) ([whiteboard notes](Day2/GPs_lectureVI_whiteboard.pdf)); S Sagynbayeva
+* 04:45 PM – 06:00 PM o Problem VI: [Gaussian Process Regression](Day2/Rubin_lab1_GPs.ipynb) | [Solutions](Day2/Rubin_lab1_solutions.ipynb); S Sagynbayeva
 
 ## Day 3 – Gaussian Processes at Scale
 
 Wednesday, Nov 18
 
-* 09:00 AM – 10:00 AM o Lecture VII: Advanced Gaussian Processes: Making GPs Work at Scale; S Sagynbayeva
+* 09:00 AM – 10:00 AM o Lecture VII: [Advanced Gaussian Processes: Making GPs Work at Scale](Day3/GP_lecture2.ipynb); S Sagynbayeva
 * 10:00 AM – 10:15 AM o BREAK
-* 10:30 AM – 12:00 PM o Problem VII: Scalable Gaussian Processes; S Sagynbayeva
+* 10:30 AM – 12:00 PM o Problem VII: [Scalable Gaussian Processes](Day3/Rubin_lab2_GPs.ipynb) | [Solutions](Day3/Rubin_lab2_GPs_solutions.ipynb); S Sagynbayeva
 * 12:00 PM – ??:?? PM o BREAK
 
 ## Day 4 – From Pixels to Predictions
 
 Thursday, Nov 19
 
-* 09:00 AM – 09:50 AM o Lecture VIII: From Pixels to Light Curves, and Back Again; L Bouma
+* 09:00 AM – 09:50 AM o Lecture VIII: [From Pixels to Light Curves, and Back Again](Day4/lecture_VIII_pixels_to_light_curves_slides.txt); L Bouma
 * 09:50 AM – 10:00 AM o BREAK
-* 10:00 AM – 10:50 AM o Problem VIIIa: Photometry and Cotrending: Building and Believing Light Curves; L Bouma
+* 10:00 AM – 10:50 AM o Problem VIIIa: [Photometry and Cotrending: Building and Believing Light Curves](Day4/PhotometryAndCotrending.ipynb); L Bouma
 * 10:50 AM – 11:00 AM o BREAK
-* 11:00 AM – 11:50 AM o Problem VIIIb: Linking the Layers of Your Data; L Bouma
+* 11:00 AM – 11:50 AM o Problem VIIIb: [Linking the Layers of Your Data](Day4/LinkingTheLayers.ipynb); L Bouma
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Lecture IX: Machine Learning for Time-Series Analysis; H Qu
-* 02:30 PM – 04:00 PM o Problem IX: Machine Learning for Time-Series Data; H Qu
+* 02:30 PM – 04:00 PM o Problem IX: [Machine Learning for Time-Series Data](Day4/MLForTimeSeries.ipynb); H Qu
 * 04:00 PM – 04:30 PM o BREAK
 * 04:30 PM – 05:30 PM o Hack Pitch
 
